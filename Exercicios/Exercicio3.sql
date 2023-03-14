@@ -1,0 +1,2 @@
+ALTER TABLE Michelle ADD UF CHAR(2) NULL,
+                         TELEFONE SMALLMONEY NOT NULL;
